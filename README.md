@@ -1,4 +1,4 @@
-# Hi, I'm Vincent Chen
+# Hi there, I'm Vincent
 
 **English** · [中文](#中文)
 
